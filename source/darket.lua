@@ -1364,7 +1364,7 @@ keyboard.inline_keyboard = {
 {text = ' تفعيل ', callback_data = msg.sender.user_id..'/onlinebott'..msg_chat_id},
 },
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'},
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'},
 }
 }
 local rep = msg.id/2097152/0.5
@@ -9164,7 +9164,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
 },
 }
 }
@@ -12064,7 +12064,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {{text = 'ترجمه الي العربية', data = msg.sender.user_id..'toar'},{text = 'ترجمه الي الانجليزية', data = msg.sender.user_id..'toen'}},
-{{text = ' ٠ TeAm DarKet ٠️', url = "https://t.me/R125R"}},
+{{text = ' ٠ قناة السورس ٠️', url = "https://t.me/R125R"}},
 }
 }
 return send(msg_chat_id,msg_id, [[*
@@ -12171,7 +12171,7 @@ data = {
 {text = '𝑀𝑃3', data = msg.sender.user_id..'/mp3'..msg_id}, {text = '𝑀𝑃4', data = msg.sender.user_id..'/mp4'..msg_id}, 
 },
 {
-{text = 'TeAm DarKet ', url = "https://t.me/R125R"}
+{text = 'قناة السورس ', url = "https://t.me/R125R"}
 },
 }
 }
@@ -14102,7 +14102,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14113,7 +14113,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14124,7 +14124,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14135,7 +14135,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14146,7 +14146,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14157,7 +14157,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14168,7 +14168,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14179,7 +14179,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = 'TeAm DarKet', url = 't.me/R125R'}, 
+{text = 'قناة السورس', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14190,7 +14190,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14201,7 +14201,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14212,7 +14212,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14223,7 +14223,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14234,7 +14234,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14245,7 +14245,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14256,7 +14256,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14267,7 +14267,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14279,7 +14279,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14290,7 +14290,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14301,7 +14301,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14312,7 +14312,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14323,7 +14323,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14334,7 +14334,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14345,7 +14345,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14356,7 +14356,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14367,7 +14367,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14378,7 +14378,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14389,7 +14389,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14400,7 +14400,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14411,7 +14411,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14422,7 +14422,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = 'TeAm DarKet', url = 't.me/R125R'}, 
+{text = 'قناة السورس', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14433,7 +14433,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14444,7 +14444,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14455,7 +14455,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14466,7 +14466,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14477,7 +14477,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14488,7 +14488,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14499,7 +14499,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14510,7 +14510,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14521,7 +14521,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14532,7 +14532,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14543,7 +14543,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14554,7 +14554,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14565,7 +14565,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14576,7 +14576,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14587,7 +14587,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/R125R'}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/R125R'}, 
 },
 }
 }
@@ -14715,7 +14715,7 @@ Abs = math.random(2,140);
 local Text ='*✘︙تم اختيار الشعر لك فقط*'
 keyboard = {} 
 keyboard.inline_keyboard = {
-{{text = '⧫ ٠ TeAm DarKet ٠️️ ⧫',url="t.me/R125R"}},
+{{text = '⧫ ٠ قناة السورس ٠️️ ⧫',url="t.me/R125R"}},
 }
 local msg_id = msg.id/2097152/0.5
 https.request("https://api.telegram.org/bot"..Token..'/sendVoice?chat_id=' .. msg.chat_id .. '&voice=https://t.me/QQNNSX/'..Abs..'&caption=' .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard)) 
@@ -14788,7 +14788,7 @@ if text then
 if text:match("^بحث (.*)$") then
 local search = text:match("^بحث (.*)$")
 local json = json:decode(http.request("https://api-jack.ml/api18.php?search="..URL.escape(search)..""))
-local datar = {data = {{text = "٠ TeAm DarKet ٠" , url = 'https://t.me/R125R'}}}
+local datar = {data = {{text = "٠ قناة السورس ٠" , url = 'https://t.me/R125R'}}}
 for i = 1,5 do
 title = json.results[i].title
 link = json.results[i].url
@@ -15219,13 +15219,13 @@ if text == 'السورس' or text == 'سورس' or text == 'يا سورس' or te
 photo = "https://t.me/QQQLO/26"
 local T =[[
 – – – – – – – –
- ٠ TeAm DarKet ٠
+ ٠ قناة السورس ٠
 – – – – – – – –
 ٠ DEV >> [˹ S𝑡𝑒Pℎ𝑒N .](t.me/R2RR7)
 – – – – – – – – 
 ٠ Exp >> [˹ Exp DarKet .](t.me/R125R)
 – – – – – – – – 
-٠ـــ٠ >> [˹ TeAm DarKet .](t.me/R125R)
+٠ـــ٠ >> [˹ قناة السورس .](t.me/R125R)
 – – – – – – – – 
 ]]
 keyboard = {} 
@@ -15234,7 +15234,7 @@ keyboard.inline_keyboard = {
 {text = 'S𝑡𝑒Pℎ𝑒N', url = "https://t.me/R2RR7"},
 },
 {
-{text = 'TeAm DarKet ', url = "https://t.me/R125RL"}
+{text = 'قناة السورس ', url = "https://t.me/R125RL"}
 },
 }
 local msgg = msg_id/2097152/0.5
@@ -15267,7 +15267,7 @@ data = {
 {text = 'اوامر القفل', data = msg.sender.user_id..'/NoNextSeting'}, {text = 'اوامر التعطيل', data = msg.sender.user_id..'/listallAddorrem'}, 
 },
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
 },
 }
 }
@@ -15297,7 +15297,7 @@ data = {
 {text = ' قائمه الاوامر ', data = msg.sender.user_id..'/helpall'},
 },
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
 },
 }
 }
@@ -15318,7 +15318,7 @@ data = {
 {text = ' قائمه الاوامر ', data = msg.sender.user_id..'/helpall'},
 },
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
 },
 }
 }
@@ -15339,7 +15339,7 @@ data = {
 {text = ' قائمه الاوامر ', data = msg.sender.user_id..'/helpall'},
 },
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
 },
 }
 }
@@ -15360,7 +15360,7 @@ data = {
 {text = ' قائمه الاوامر ', data = msg.sender.user_id..'/helpall'},
 },
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
 },
 }
 }
@@ -15381,7 +15381,7 @@ data = {
 {text = ' قائمه الاوامر ', data = msg.sender.user_id..'/helpall'},
 },
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
 },
 }
 }
@@ -15402,7 +15402,7 @@ data = {
 {text = ' قائمه الاوامر ', data = msg.sender.user_id..'/helpall'},
 },
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
 },
 }
 }
@@ -15423,7 +15423,7 @@ data = {
 {text = ' قائمه الاوامر ', data = msg.sender.user_id..'/helpall'},
 },
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
 },
 }
 }
@@ -16641,7 +16641,7 @@ data = {
 {text = '➕ اضفني لمجموعتك', url = 't.me/'..UserBot..'?startgroup=new'}, 
 },
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
 },
 }
 }
@@ -16654,7 +16654,7 @@ data = {
 {text = '➕ اضفني لمجموعتك', url = 't.me/'..UserBot..'?startgroup=new'}, 
 },
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
 },
 }
 }
@@ -16664,7 +16664,7 @@ else
 local reply_markup = LuaTele.replyMarkup{type = 'keyboard',resize = true,is_personal = true,
 data = {
 {
-{text = 'مطور السورس ٠',type = 'text'},{text = '٠ TeAm DarKet ٠️',type = 'text'},
+{text = 'مطور السورس ٠',type = 'text'},{text = '٠ قناة السورس ٠️',type = 'text'},
 },
 {
 {text = 'تعيين قناه السورس ٠',type = 'text'},{text = 'تعيين مطور السورس ٠',type = 'text'},
@@ -16846,16 +16846,16 @@ data = {
 }
 return send(msg_chat_id,msg_id,"مطور سورس داركت ٠ @"..chdevolper.."","html",true, false, false, true, reply_markup)
 end
-if text == '٠ TeAm DarKet ٠️' then
+if text == '٠ قناة السورس ٠️' then
 local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
 },
 }
 }
-return send(msg_chat_id,msg_id,"٠ TeAm DarKet ٠️ ٠ @"..chsource.."","html",true, false, false, true, reply_markup)
+return send(msg_chat_id,msg_id,"٠ قناة السورس ٠️ ٠ @"..chsource.."","html",true, false, false, true, reply_markup)
 end
 if text == 'حذف كليشه ستارت ٠' then 
 if not msg.Devss then 
@@ -17248,7 +17248,7 @@ if text:match("^@(.*)$") then
 local ch = text:match("^@(.*)$")
 Redis:set(darket.."chsource",ch)
 Redis:del(darket.."set:chs"..msg.sender.user_id)
-send(msg_chat_id,msg_id,'تم حفظ معرف ٠ TeAm DarKet ٠️ ',"md",true)  
+send(msg_chat_id,msg_id,'تم حفظ معرف ٠ قناة السورس ٠️ ',"md",true)  
 dofile('darket.lua')  
 else
 send(msg_chat_id,msg_id,'المعرف خطأ ',"md",true)  
@@ -18166,7 +18166,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
 },
 }
 }
@@ -18190,7 +18190,7 @@ if Text and Text:match('(%d+)/cancelkit') then
     type = 'inline',
     data = {
     {
-    {text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+    {text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
     },
     }
     }
@@ -18205,7 +18205,7 @@ if Text and Text:match('(%d+)/cancelkit') then
         type = 'inline',
         data = {
         {
-        {text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+        {text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
         },
         }
         }
@@ -18295,7 +18295,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
 },
 }
 }
@@ -18313,7 +18313,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
 },
 }
 }
@@ -18383,7 +18383,7 @@ data = {
 {text = 'الغاء كتم', data = IdUser..'unmute'..replyy}, 
 },
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
 },
 }
 }
@@ -18401,7 +18401,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
 },
 }
 }
@@ -18424,7 +18424,7 @@ data = {
 {text = 'الغاء حظر', data = IdUser..'unban'..replyy}, 
 },
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
 },
 }
 }
@@ -18443,7 +18443,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
 },
 }
 }
@@ -18464,7 +18464,7 @@ data = {
 {text = 'الغاء تقييد', data = IdUser..'unkid'..replyy}, 
 },
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
 },
 }
 }
@@ -18482,7 +18482,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
 },
 }
 }
@@ -18698,7 +18698,7 @@ data = {
 {text = 'القائمه الرئيسيه', data = IdUser..'/helpall'},
 },
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
 },
 }
 }
@@ -18757,7 +18757,7 @@ data = {
 {text = 'القائمه الرئيسيه', data = IdUser..'/helpall'},
 },
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
 },
 }
 }
@@ -18804,7 +18804,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
 },
 }
 }
@@ -18821,7 +18821,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
 },
 }
 }
@@ -18841,7 +18841,7 @@ data = {
 {text = 'عوده', data = IdUser..'/chback'},
 },
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
 },
 }
 }
@@ -18861,7 +18861,7 @@ data = {
 {text = 'عوده', data = IdUser..'/chback'},
 },
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
 },
 }
 }
@@ -18904,7 +18904,7 @@ data = {
 {text = 'القائمه الرئيسيه', data = IdUser..'/helpall'},
 },
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
 },
 }
 }
@@ -18958,7 +18958,7 @@ data = {
 {text = 'القائمه الرئيسيه', data = IdUser..'/helpall'},
 },
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
 },
 }
 }
@@ -18998,7 +18998,7 @@ data = {
 {text = 'القائمه الرئيسيه', data = IdUser..'/helpall'},
 },
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
 },
 }
 }
@@ -19050,7 +19050,7 @@ data = {
 {text = 'القائمه الرئيسيه', data = IdUser..'/helpall'},
 },
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
 },
 }
 }
@@ -19110,7 +19110,7 @@ data = {
 {text = 'القائمه الرئيسيه', data = IdUser..'/helpall'},
 },
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
 },
 }
 }
@@ -19150,7 +19150,7 @@ data = {
 {text = 'القائمه الرئيسيه', data = IdUser..'/helpall'},
 },
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
 },
 }
 }
@@ -19170,7 +19170,7 @@ data = {
 {text = 'القائمه الرئيسيه', data = IdUser..'/helpall'},
 },
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
 },
 }
 }
@@ -19221,7 +19221,7 @@ data = {
 {text = 'اوامر القفل', data = IdUser..'/NoNextSeting'}, {text = 'اوامر التعطيل', data = IdUser..'/listallAddorrem'}, 
 },
 {
-{text = '٠ TeAm DarKet ٠️', url = 't.me/'..chsource..''}, 
+{text = '٠ قناة السورس ٠️', url = 't.me/'..chsource..''}, 
 },
 }
 }
